@@ -15,6 +15,8 @@ Veery is my attempt to learn more about machine learning using TensorFlow. It's 
 - [Getting Started with TensorFlow](https://www.tensorflow.org/get_started/get_started)
 - [MNIST for ML Beginners](https://www.tensorflow.org/get_started/mnist/beginners)
 
+Shown below is a screenshot of running a trainable linear regression model from [Getting Started with TensorFlow](https://www.tensorflow.org/get_started/get_started) and a model for MNIST from [MNIST for ML Beginners](https://www.tensorflow.org/get_started/mnist/beginners):
+
 ![Screenshot](https://raw.githubusercontent.com/donny/veery/master/screenshot.png)
 
 ### Implementation
