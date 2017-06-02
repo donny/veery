@@ -21,7 +21,7 @@ Shown below is a screenshot of running a trainable linear regression model from 
 
 ### Implementation
 
-...
+The code [`linear_model.py`](https://github.com/donny/veery/blob/master/linear_model.py) shows how we use TensorFlow to solve the equation: `y = W * x + b`. Given `x` and `y`, find the value of `W` and `b`, with the following training data: `x: [1, 2, 3, 4], y: [0, -1, -2, -3]`. From the screenshot above, the solution was `W` equals -0.9999969 and `b` equals 0.99999082; which is very close to the actual answer of `W` equals -1 and `b` equals 1.
 
 ### Conclusion
 
